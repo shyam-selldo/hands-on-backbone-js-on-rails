@@ -12,4 +12,9 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require lodash
+//= require backbone
+//= require backbone_rails_sync
+//= require backbone_datalink
+//= require backbone/scrach_pad
 //= require_tree .
